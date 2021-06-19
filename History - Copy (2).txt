@@ -3,7 +3,7 @@
     3  sudo apt install nodejs
     4  sudo apt install npm
     5  sudo apt install git
-    6  ls
+ls
 git pull https://github.com/deep56parmar/pbz-web.git
 git clone https://github.com/deep56parmar/pbz-web.git
 ls
