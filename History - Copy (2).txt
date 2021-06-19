@@ -1,4 +1,4 @@
-   1  pwd
+ pwd
     2  sudo apt update
     3  sudo apt install nodejs
     4  sudo apt install npm
