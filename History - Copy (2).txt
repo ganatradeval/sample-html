@@ -4,7 +4,7 @@
     4  sudo apt install npm
     5  sudo apt install git
     6  ls
-    7  git pull https://github.com/deep56parmar/pbz-web.git
+git pull https://github.com/deep56parmar/pbz-web.git
 git clone https://github.com/deep56parmar/pbz-web.git
 ls
  
