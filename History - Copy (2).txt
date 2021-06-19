@@ -1,10 +1,9 @@
  pwd
     2  sudo apt update
     3  sudo apt install nodejs
-    4  sudo apt install npm
+sudo apt install npm
 sudo apt install git
 ls
 git pull https://github.com/deep56parmar/pbz-web.git
 git clone https://github.com/deep56parmar/pbz-web.git
 ls
- 
